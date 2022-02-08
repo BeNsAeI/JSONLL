@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkD3/0/88WdQvoDDKxe/eNYQsR73vIwS9glPDGWIsH7bVaNb2pKnQaCHdRft+NCSViVoE69QEHa6oEn9FnWq4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\Desktop\\JSONLL\\JSONLL\\JSONLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

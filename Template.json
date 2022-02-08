@@ -1,0 +1,19 @@
+{
+	"isSorted": "",
+	"chain": [
+		{
+			"id": "",
+			"prevId": "",
+			"nextId": "",
+			"blob": {
+				"data": "",
+				"type": "",
+				"hash": "",
+				"createdOn": "",
+				"createdBy": "",
+				"lastModifiedOn": "",
+				"lastModifiedBy": ""
+			}
+		}
+	]
+}
